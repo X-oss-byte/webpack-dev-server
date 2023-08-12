@@ -67,7 +67,7 @@
     "open": "^8.0.9",
     "p-retry": "^4.5.0",
     "rimraf": "^3.0.2",
-    "schema-utils": "^4.0.0",
+    "schema-utils": "^4.2.0",
     "selfsigned": "^2.1.1",
     "serve-index": "^1.9.1",
     "sockjs": "^0.3.24",
