@@ -68,7 +68,7 @@
     "p-retry": "^4.5.0",
     "rimraf": "^3.0.2",
     "schema-utils": "^4.0.0",
-    "selfsigned": "^2.1.1",
+    "selfsigned": "^2.4.1",
     "serve-index": "^1.9.1",
     "sockjs": "^0.3.24",
     "spdy": "^4.0.2",
